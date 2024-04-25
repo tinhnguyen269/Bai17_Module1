@@ -13,3 +13,6 @@ class ElectricLamp {
 //tao doi tuong
 let e1 = new ElectricLamp();
 let e2 = new ElectricLamp();
+
+let a = [3, 4, 5, 6];
+let b = a;

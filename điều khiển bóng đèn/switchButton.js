@@ -19,9 +19,9 @@ class SwitchButton {
 }
 let s1 = new SwitchButton(e1);
 let s2 = new SwitchButton(e2);
-s1.switchOn();
-s2.switchOn();
+// s1.switchOn();
+// s2.switchOn();
 
-s2.connectToLamp(e1);
-s2.switchOff();
-s2.switchOn();
+// s2.connectToLamp(e1);
+// s2.switchOff();
+// s2.switchOn();
